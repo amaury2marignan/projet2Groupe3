@@ -1,0 +1,97 @@
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.AssemblyInfo.cs
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.exe
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.deps.json
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.runtimeconfig.json
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.runtimeconfig.dev.json
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.pdb
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\staticwebassets\Projet2Homechef.StaticWebAssets.Manifest.cache
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.RazorTargetAssemblyInfo.cache
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.csproj.CopyComplete
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.dll
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.pdb
+C:\Users\Stagiaire\Desktop\Reconversion\Isika\Cours\C#\TP\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.genruntimeconfig.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.csproj.AssemblyReference.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.AssemblyInfoInputs.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.AssemblyInfo.cs
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.csproj.CoreCompileInputs.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.pdb
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.exe
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.deps.json
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.runtimeconfig.json
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.runtimeconfig.dev.json
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.pdb
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\staticwebassets\Projet2Homechef.StaticWebAssets.Manifest.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.RazorTargetAssemblyInfo.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.csproj.CopyComplete
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.genruntimeconfig.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.RazorAssemblyInfo.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.RazorAssemblyInfo.cs
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.TagHelpers.input.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.TagHelpers.output.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.RazorCoreGenerate.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.RazorTargetAssemblyInfo.cs
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.Views.dll
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\bin\Debug\netcoreapp3.1\Projet2Homechef.Views.pdb
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.Views.pdb
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2Homechef\Projet2Homechef\obj\Debug\netcoreapp3.1\Razor\Index.cshtml.g.cs
