@@ -1,14 +1,21 @@
-﻿@{
+﻿ @model List<Projet2Homechef.Models.Villageois>
+
+@{
     ViewBag.Title = "Gestionnaire";
     Layout = "_LayoutChoixSejour";
 }
 
 <h3 class="titre">Gestionnaire</h3>
 
- 
+@foreach (var villageois in Model)
+{
+   
+
+
+
 <table border="1">
       <tr>
-          <th>UserName</th>
+          <th>@villageois.UserName </th>
           <th>Nom</th>    
           <th>Prenom</th>  
           <th>DateDeNaissance</th>
@@ -18,13 +25,11 @@
           <th>DateDeNaissance</th> 
           <th>Valider</th>
           <th>Refuser</th>
+          <th> <button1 class="btn btn-success btn-xl" type="submit">Valider</button1> </th>
+           <th> <button2 class="btn btn-danger btn-xl" type="submit">Refuser</button2>
       </tr>
       
       
-          <tr>
-              
-              <button1 class="btn btn-success btn-xl" type="submit">Valider</button1>
-              <button2 class="btn btn-danger btn-xl" type="submit">Refuser</button2>
-          </tr>
       
   </table>
+  }

@@ -39,11 +39,16 @@ namespace Projet2Homechef.Models
             this._bddContext.Services.Add(serviceToAdd);
             this._bddContext.SaveChanges();
         }
-        /*        public List<Sejour> ObtientTousLesSejours()
-                {
-                    return _bddContext.Sejours.ToList();
-                }
+        public List<Villageois> ObtientTousLesVillageois()
+        {
+            return _bddContext.Village.ToList();
+        }
 
+        public List<Villageois> VillageoisAValider()
+        {
+            return _bddContext.Village.ToList();
+        }
+        /*
                 public int CreerSejour(string lieu, string telephone)
                 {
                     Sejour sejour = new Sejour() { Lieu = lieu, Telephone = telephone };
@@ -55,15 +60,15 @@ namespace Projet2Homechef.Models
                 public void ModifierSejour(int id, string lieu, string telephone)
                 {
                     Sejour sejour = _bddContext.Sejours.Find(id);
-                    if(sejour != null)
+                    if (sejour != null)
                     {
                         sejour.Lieu = lieu;
                         sejour.Telephone = telephone;
 
                         _bddContext.SaveChanges();
                     }
-                }*/
-
+                }
+        */
         /*public void SupprimerSejour(int id)
         {
             Sejour sejour = _bddContext.Sejours.Find(id);
