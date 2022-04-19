@@ -1,0 +1,31 @@
+﻿@model List<Projet2Homechef.Models.Villageois>
+
+@{
+    ViewBag.Title = "Admin";
+    Layout = "_LayoutChoixSejour";
+}
+
+<h3 class="titre">Modification Villageois</h3>
+
+<tr>
+          <th>Nom</th>    
+          <th>Prenom</th>  
+          <th>DateDeNaissance</th>
+          <th>Email</th> 
+          <th>Tel</th> 
+          <th>Role</th> 
+          <th> Valider </th>
+          <th>Refuser</th>
+          <th>Supprimer</th>
+       </tr>
+    
+    
+         <tr>
+          <td>@villageois.Nom</td>    
+          <td>@villageois.Prenom</td> 
+          <td>@villageois.DateDeNaissance.ToShortDateString()</td> 
+          <td>@villageois.Email</td> 
+          <td>@villageois.Tel</td> 
+          <td>@villageois.Role</td> 
+          </tr>
+

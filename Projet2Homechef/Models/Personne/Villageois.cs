@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -13,6 +14,7 @@ namespace Projet2Homechef.Models
         public string Password { get; set; }
         public string Nom { get; set; }
         public string Prenom { get; set; }
+        [Column(TypeName="date")]
         public DateTime DateDeNaissance { get; set; }
         public string Email { get; set; }
         public string Tel { get; set; }

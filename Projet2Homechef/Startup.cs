@@ -23,9 +23,9 @@ namespace Projet2Homechef
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            using(Dal dal = new Dal())
+            using(BddContext bddcontext = new BddContext())
             {
-                dal.DeleteCreateDatabase();
+                bddcontext.InitializeDb();
             }
 
             if (env.IsDevelopment())

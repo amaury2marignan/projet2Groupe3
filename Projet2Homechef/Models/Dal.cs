@@ -69,20 +69,49 @@ namespace Projet2Homechef.Models
                     }
                 }
         */
-        /*public void SupprimerSejour(int id)
+        public void SupprimerVillageois(int id)
         {
-            Sejour sejour = _bddContext.Sejours.Find(id);
-            if (sejour != null)
+            Villageois villageois = _bddContext.Village.Find(id);
+            if (villageois != null)
             {
-                _bddContext.Sejours.Remove(sejour);
+                _bddContext.Village.Remove(villageois);
                 _bddContext.SaveChanges();
             }
-        }*/
+        }
 
         public void Dispose()
         {
             _bddContext.Dispose();
         }
+
+        public void ValiderVillageois(int id)
+        {
+            Villageois villageois = _bddContext.Village.Find(id);
+            if (villageois != null)
+            {
+                villageois.Valider=1;
+
+                _bddContext.SaveChanges();
+            }
+        }
+
+        public void ModifierVillageois(int idVillageoisAModifier, string userName, string password, string nom, string prenom, DateTime dateDeNaissance, string email, string tel)
+        {
+            Villageois villageois = _bddContext.Village.Find(idVillageoisAModifier);
+            if (villageois != null)
+            {
+                villageois.UserName = userName;
+                villageois.Password = password;
+                villageois.Nom = nom;
+                villageois.Prenom = prenom;
+                villageois.DateDeNaissance = dateDeNaissance;
+                villageois.Email = email;
+                villageois.Tel = tel; 
+                
+                _bddContext.SaveChanges();
+            }
+}
+
 
     }
 }

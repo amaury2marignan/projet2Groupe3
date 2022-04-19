@@ -227,3 +227,5 @@ C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2repo\projet2Groupe3\Projet
 C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2repo\projet2Groupe3\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.dll
 C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2repo\projet2Groupe3\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.pdb
 C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2repo\projet2Groupe3\Projet2Homechef\obj\Debug\netcoreapp3.1\Projet2Homechef.genruntimeconfig.cache
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2repo\projet2Groupe3\Projet2Homechef\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\Amaury\Documents\DEV\PROJETS\PROJET 2\Projet2repo\projet2Groupe3\Projet2Homechef\obj\Debug\netcoreapp3.1\Razor\Views\Admin\FormulaireVillageois.cshtml.g.cs

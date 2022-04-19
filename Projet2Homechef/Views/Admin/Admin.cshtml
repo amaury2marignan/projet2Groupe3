@@ -1,7 +1,7 @@
-﻿ @model List<Projet2Homechef.Models.Villageois>
+﻿@model List<Projet2Homechef.Models.Villageois>
 
 @{
-    ViewBag.Title = "Gestionnaire";
+    ViewBag.Title = "Admin";
     Layout = "_LayoutChoixSejour";
 }
 
@@ -31,8 +31,8 @@
           <td>@villageois.Email</td> 
           <td>@villageois.Tel</td> 
           <td>@villageois.Role</td> 
-          <td> <button1 class="btn btn-success btn-xl" type="submit">@Html.ActionLink("Valider", "ValiderVillageois", "Gestionnaire",new{@id = @villageois.Id}) </button1> </td>
-          <td> <button2 class="btn btn-danger btn-xl" type="submit">@Html.ActionLink("supprimer", "DeleteVillageois", "Gestionnaire", new{@id = @villageois.Id})</button2> </td>
+          <td> <button1 class="btn btn-success btn-xl" type="submit">@Html.ActionLink("modifier", "FormulaireVillageois", "Admin",new{@id = @villageois.Id}) </button1> </td>
+          <td> <button2 class="btn btn-danger btn-xl" type="submit">@Html.ActionLink("supprimer", "DeleteVillageois", "Admin", new{@id = @villageois.Id})</button2> </td>
          
 
       </tr>

@@ -27,24 +27,92 @@ namespace Projet2Homechef.Models
             this.Database.EnsureDeleted();
             this.Database.EnsureCreated();
             this.Village.AddRange(
-               /* new Villageois
-                {
-                    Id = 1,
-                    Nom = "Bucharati",
-                    Prenom = "Luigi"
-                },
+              
+               new Villageois
+               {
+                 
+                   UserName = "111",
+                   Password = "azerty",
+                   Nom = "Bucharati",
+                   Prenom = "Luigi",
+                   DateDeNaissance = new DateTime(1990,03,02),
+                   Email = "aa@hotmail.com",
+                   Tel = "0123456789",
+                   Role = "Villageois",
+                   Valider = 0
+               },
+              new Villageois
+              {
+                
+                  UserName = "333",
+                  Password = "azerty",
+                  Nom = "Gloup",
+                  Prenom = "Luigi",
+                  DateDeNaissance = new DateTime(1990, 03, 02),
+                  Email = "aa@hotmail.com",
+                  Tel = "0123456789",
+                  Role = "Villageois",
+                  Valider = 0
+
+              },
+
                 new Villageois
                 {
-                    Id = 2,
-                    Nom = "Yugioh",
-                    Prenom = "ohoh"
+                   
+                    UserName = "444",
+                    Password = "azerty",
+                    Nom = "Fra ncois",
+                    Prenom = "Luigi",
+                    DateDeNaissance = new DateTime(1990, 03, 02),
+                    Email = "aa@hotmail.com",
+                    Tel = "0123456789",
+                    Role = "Villageois",
+                    Valider = 0
+
                 },
-                new Villageois
-                {
-                    Id = 3,
-                    Nom = "Master",
-                    Prenom = "Chief"
-                }*/
+                  new Villageois
+                  {
+
+                      UserName = "555",
+                      Password = "azerty",
+                      Nom = "FFF",
+                      Prenom = "Luigi",
+                      DateDeNaissance = new DateTime(1990, 03, 02),
+                      Email = "aa@hotmail.com",
+                      Tel = "0123456789",
+                      Role = "Villageois",
+                      Valider = 0
+
+                  },
+                    new Villageois
+                    {
+
+                        UserName = "3EE",
+                        Password = "azerty",
+                        Nom = "prrr",
+                        Prenom = "Luigi",
+                        DateDeNaissance = new DateTime(1990, 03, 02),
+                        Email = "aa@hotmail.com",
+                        Tel = "0123456789",
+                        Role = "Villageois",
+                        Valider = 0
+
+                    },
+                      new Villageois
+                      {
+
+                          UserName = "4gg4",
+                          Password = "azerty",
+                          Nom = "FFF",
+                          Prenom = "Luigi",
+                          DateDeNaissance = new DateTime(1990, 03, 02),
+                          Email = "aa@hotmail.com",
+                          Tel = "0123456789",
+                          Role = "Villageois",
+                          Valider = 0
+
+                      }
+
             );
             this.SaveChanges();
         }
