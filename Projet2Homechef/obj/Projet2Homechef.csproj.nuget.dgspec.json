@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2Homechef\\Projet2Homechef\\Projet2Homechef.csproj": {}
+    "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2repo\\projet2Groupe3\\Projet2Homechef\\Projet2Homechef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2Homechef\\Projet2Homechef\\Projet2Homechef.csproj": {
+    "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2repo\\projet2Groupe3\\Projet2Homechef\\Projet2Homechef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2Homechef\\Projet2Homechef\\Projet2Homechef.csproj",
+        "projectUniqueName": "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2repo\\projet2Groupe3\\Projet2Homechef\\Projet2Homechef.csproj",
         "projectName": "Projet2Homechef",
-        "projectPath": "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2Homechef\\Projet2Homechef\\Projet2Homechef.csproj",
+        "projectPath": "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2repo\\projet2Groupe3\\Projet2Homechef\\Projet2Homechef.csproj",
         "packagesPath": "C:\\Users\\Amaury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2Homechef\\Projet2Homechef\\obj\\",
+        "outputPath": "C:\\Users\\Amaury\\Documents\\DEV\\PROJETS\\PROJET 2\\Projet2repo\\projet2Groupe3\\Projet2Homechef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amaury\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,14 +9,15 @@ namespace Projet2Homechef.Models
     public class Villageois
     {
         public int Id { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
         public string Nom { get; set; }
         public string Prenom { get; set; }
-/*        public DateTime DateDeNaissance { get; set; }
+        public DateTime DateDeNaissance { get; set; }
         public string Email { get; set; }
         public string Tel { get; set; }
-        public string MotDePasse { get; set; }
-        public int ChefId { get; set; }
-        public Chef Chef{ get; set; }*/
+        public string Role { get; set; }
+        public int Valider { get; set; }
 
     }
 }

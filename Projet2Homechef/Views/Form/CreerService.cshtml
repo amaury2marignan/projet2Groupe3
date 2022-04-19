@@ -1,0 +1,26 @@
+﻿@model Projet2Homechef.Models.Service2
+@{
+    ViewBag.Title = "CreerService";
+    Layout = "_LayoutHomechef";
+}
+
+<h3 class="titre">CreerService</h3>
+
+<div class="col-lg-8 col-xl-7">
+    @using (Html.BeginForm())
+     {
+        <div class="form-floating mb-3">
+            @Html.TextBoxFor(model => model.Titre, new { @class = "form-control", placeholder = "Titre" })
+            @Html.LabelFor(model => model.Titre)
+            @Html.ValidationMessageFor(model => model.Titre)
+        </div>
+        <div class="form-floating mb-3">
+            @Html.TextBoxFor(model => model.Description, new { @class = "form-control", placeholder = "Description" })
+            @Html.LabelFor(model => model.Description)
+            @Html.ValidationMessageFor(model => model.Description)
+        </div>
+
+                        <!-- Submit Button-->
+        <button class="btn btn-primary btn-xl" type="submit">Ajouter</button>
+    }
+</div>

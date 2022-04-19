@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width" />
+  <title>ListeVillageois</title>
+</head>
+<body>
+  <table border="1">
+      <tr>
+          <th>Nom</th>
+          <th>Prenom</th>         
+      </tr>
+      @foreach (Projet2Homechef.Models.Villageois villageois in ViewData["Village"] as List<Projet2Homechef.Models.Villageois>)
+      {
+          <tr>
+              <td>@villageois.Nom</td>
+              <td>@villageois.Prenom</td>
+              
+          </tr>
+      }
+  </table>
+</body>
+</html>

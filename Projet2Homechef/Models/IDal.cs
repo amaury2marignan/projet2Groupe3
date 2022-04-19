@@ -8,11 +8,8 @@ namespace Projet2Homechef.Models
     public interface IDal: IDisposable
     {
         void DeleteCreateDatabase();
-        /*List<Sejour> ObtientTousLesSejours();
-        int CreerSejour(string lieu, string telephone);
-        void ModifierSejour(int id, string lieu, string telephone);*/
-
-        //void SupprimerSejour(int id);
-
+        public void AjouterVillageois(string userName, string password, string nom, string prenom, DateTime dateDeNaissance, string email, string tel);
+        public void CreerService(string Titre, string Description);
+        
     }
 }

@@ -6,10 +6,12 @@ namespace Projet2Homechef.Models
     public class Service
     {
         public int Id { get; set; }
-        public Chef Chef { get; set; }
+        public string Titre { get; set; }
+        public string Description { get; set; }
+        /*public Chef Chef { get; set; }
         public List<Lieu> Lieux { get; set; }
         public List<Outil> Outils { get; set; }
-        public List<Talent> Talents { get; set; }
+        public List<Talent> Talents { get; set; }*/
 
     }
 }
